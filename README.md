@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @haseebyaseen662
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning new Frameworks, Libararies and Technologies
-- 💞️ I’m looking to collaborate on Laravel
-- 📫 Reach me with facebook : https://www.facebook.com/profile.php?id=61553261826368
+# 👋 Hi, I’m Haseeb Yaseen (@haseebyaseen662)
 
-00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000- 😄 Pronouns: Haseeb
-- ⚡ Fun fact: ...
+- 👀 I’m passionate about **Laravel** and backend development
+- 🌱 Currently exploring new **frameworks**, **libraries**, and **technologies**
+- 💬 Open to collaborate on **Laravel-based** projects
+- 📫 Reach me on Facebook: [facebook.com/haseebyaseen662](https://www.facebook.com/profile.php?id=61553261826368)
+- 😄 Pronouns: Haseeb
+- ⚡ Fun fact: I started coding when I was in 6th grade and built my first Laravel project at 17!
 
-<!---
-haseebyaseen662/haseebyaseen662 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+> This is a ✨ special ✨ repository because its `README.md` file appears on your GitHub profile!  
+> You can click the **Preview** button above to see how it looks live.
